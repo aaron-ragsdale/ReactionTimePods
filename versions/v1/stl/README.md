@@ -13,7 +13,7 @@ Print **one of every model per button, except the spring, which needs four copie
 | [Button_base.stl](Button_base.stl) | 1 | 4 | Button support / mounting part |
 | [Button_top.stl](Button_top.stl) | 1 | 4 | Pressable top |
 | [Spring.stl](Spring.stl) | **4** | **16** | Printed spring elements for button return |
-| [pressfit_leg_6mm.stl](pressfit_leg_6mm.stl) | 1 | 4 | Press-fit support for a 6 mm stand material |
+| [pressfit_leg_6mm.stl](pressfit_leg_6mm.stl) | 2-4 | 8-16 | Press-fit support for a 6 mm stand material |
 | **Total** | **9** | **36** | Printed parts for four buttons |
 
 The press-fit leg is designed around **6 mm material** (for example, plywood). You can substitute another rigid stand material, but check fit or edit the Fusion design to match its thickness.
